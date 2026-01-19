@@ -60,7 +60,7 @@ Connect with me:
 *"Combining the power of AI with robust software development to build intelligent, secure systems."*
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=moshihud&show_icons=true&theme=radical&include_all_commits=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=moshihud&show_icons=true&include_all_commits=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshihud&layout=compact&theme=radical)
