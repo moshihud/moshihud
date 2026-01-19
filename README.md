@@ -1,35 +1,68 @@
-### Hi there 👋, I'm [Munshi Moshihud Hossain](https://github.com/moshihud)
+# Hi there, I'm [Munshi Moshihud Hossain](https://github.com/moshihud)👋
 
-Hi! I am Munshi Moshihud Hossain, I am a fullstack web developer specialzed in javascript. I have experience starting from building interactive frontend, dynamic webpage and also backend using raw HTML, CSS, React & Laravel Framework. And Integrating those with seperate API with laravel & react framework.
+## 🎓 About Me
 
-Education/Skills:
+I'm a recent **MSc Artificial Intelligence** graduate from the **University of Essex**, passionate about leveraging machine learning and AI to solve real-world problems. My expertise spans from building intelligent systems to developing full-stack web applications.
 
-- 🎓 Graduating from American International University in 2022
--  Javascript 
--  Full Web Application, API, Backend with laravel
--  C#, Java, Android apps
--  Html, CSS, React, BootStrap
--  RDBMS, MySQL, SQLServer
--  libraries: Laravel, React
+## 🔬 Research & Specialization
 
-Language and Tools:
+- **MSc Dissertation**: Comparative Analysis of Clustering Algorithms for Credit Card Fraud Detection
+- **Research Interests**: Machine Learning, Cybersecurity, Fraud Detection, Computer Vision
+- **Key Projects**: 
+  - ADHD Prediction Models
+  - EEG Mental Workload Classification
+  - Smartphone Chatbots for Autism Therapy
+  - Image Processing & Computer Vision Applications
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="50" sizes="50"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-<a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /></a>
-<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" sizes="50"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="50" sizes="50"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" sizes="50"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="50" sizes="50"></a>
+## 💻 Technical Skills
+
+### AI & Machine Learning
+- **Languages**: Python, R
+- **ML Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Algorithms**: Clustering (K-Means, DBSCAN, Hierarchical), Classification, Neural Networks
+- **Data Analysis**: Pandas, NumPy, Statistical Analysis
+- **Computer Vision**: OpenCV, Image Processing
+
+### Full-Stack Development
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
+- **Backend**: Laravel (PHP), Node.js, REST APIs
+- **Databases**: MySQL, SQL Server, RDBMS
+- **Other Languages**: C#, Java, Android Development
+
+### Tools & Technologies
+- Git/GitHub, LaTeX
+- Data Visualization
+- API Integration & Development
+
+## 🎯 Current Focus
+
+- 🔍 Exploring opportunities in **AI-powered Cybersecurity** and **Machine Learning Engineering**
+- 🚀 Building intelligent systems that combine ML with practical applications
+- 📊 Developing full-stack solutions with AI/ML integration
+
+## 📫 Let's Connect!
+
+I'm actively seeking opportunities where I can apply my AI/ML expertise and development skills to create impactful solutions, particularly in cybersecurity and fraud detection domains.
+
+<!-- ## 📍 Featured Projects
+
+[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=moshihud&repo=clustering-credit-card-fraud-detection-msc-dissertation)](https://github.com/moshihud/clustering-credit-card-fraud-detection-msc-dissertation)
+ -->
 
 Connect with me:
 
-<a href="https://www.facebook.com/mmoshihud.hossain"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="git" width="50" sizes="50"></a>
+- 🌱 Currently learning: **Agentic AI** and **LLM Applications**
+- 💬 Ask me about: **Machine Learning, Fraud Detection, Full-Stack Development**
+- 📫 How to reach me: moshihud@gmail.com
+- 💼 LinkedIn: [Munshi Moshihud Hossain](https://www.linkedin.com/in/munshi-moshihud-hossain)
 
 
-- 🌱 I’m currently learning Python
-- 💬 Ask me about anything
-- 📫 How to reach me: moshihud@outlook.com
+*"Combining the power of AI with robust software development to build intelligent, secure systems."*
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=moshihud&show_icons=true&theme=radical&include_all_commits=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshihud&layout=compact&theme=radical)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=moshihud)
